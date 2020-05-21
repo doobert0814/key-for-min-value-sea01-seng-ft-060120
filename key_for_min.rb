@@ -5,6 +5,6 @@ def key_for_min_value(name_hash)
   low_value = 0 
   low_key = NIL
   
-  name_hash.each { |
+  name_hash.each { |key, value| 
 
 end
